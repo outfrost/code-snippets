@@ -1,0 +1,16 @@
+body {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+	width: 100%;
+	margin: 0;
+	box-sizing: border-box;
+}
+main {
+	width: calc(210mm - 0.5px);
+	max-height: calc(297mm - 0.5px);
+	margin: 0;
+	box-sizing: border-box;
+	overflow: hidden;
+}
