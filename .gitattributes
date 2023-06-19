@@ -1,2 +1,0 @@
-# Exclude massive dump of string consts from language statistics
-java/font-awesome-*-strings.java linguist-vendored
